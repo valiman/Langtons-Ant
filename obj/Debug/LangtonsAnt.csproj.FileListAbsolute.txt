@@ -1,0 +1,8 @@
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.Form1.resources
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.Properties.Resources.resources
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.csproj.GenerateResource.Cache
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\bin\Debug\LangtonsAnt.exe
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\bin\Debug\LangtonsAnt.pdb
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.exe
+C:\Users\knavlima\Documents\Visual Studio 2008\Projects\LangtonsAnt\LangtonsAnt\obj\Debug\LangtonsAnt.pdb
